@@ -1,0 +1,8 @@
+"Gibson","images/Electric_Guitars_gl93EXR.jpg"
+"Fender","images/Electric_Guitars_gl93EXR.jpg"
+"PRS","images/Electric_Guitars_gl93EXR.jpg"
+"G&L","images/Electric_Guitars_gl93EXR.jpg"
+"Rickenbacker","images/Electric_Guitars_gl93EXR.jpg"
+"Ibanez","images/Electric_Guitars_gl93EXR.jpg"
+"ESP","images/Electric_Guitars_gl93EXR.jpg"
+"Jackson","images/Electric_Guitars_gl93EXR.jpg"
